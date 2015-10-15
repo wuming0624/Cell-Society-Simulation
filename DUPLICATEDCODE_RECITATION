@@ -1,0 +1,7 @@
+Jasper Hancock (jmh98), Henry Yuen( py22)
+
+There were two refactored methods. The first method was duplicated in the subclass as in the superclass, which was therefore deleted.
+The second method duplicated the same code in the super class and called a fourth method, so the subclass was made to call super.initProcessor(), followed
+by its fourth method.
+
+The HashMap types have been removed, and replaced with Map types.

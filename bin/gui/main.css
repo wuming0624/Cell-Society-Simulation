@@ -1,0 +1,14 @@
+.root{
+	-fx-font-family:"Segoe UI Light";
+	-fx-font-size:10pt;
+}
+.slider{
+	-fx-padding:10px;
+
+}
+
+.label {
+    -fx-font-family: "Segoe UI Light";
+	-fx-label-padding:3px;
+
+}
